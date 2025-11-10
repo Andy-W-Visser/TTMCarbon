@@ -11,6 +11,6 @@ PassageTimes : calculates the first and las passage time from and to the sea flo
 
 PassageTimes1000 : calculates the first and las passage time from and to a depth of 1000 m.
 
-krillinterp001 : calculates the sequestered carbon and residence time associated with krill poop in the Southern Ocean. Data for distribution is inthe .csv file. 
+krillinterp001 : calculates the sequestered carbon and residence time associated with krill poop in the Southern Ocean. Data for distribution is inthe .csv file. Model used in Cavan EL, Mackay N, Hill SL, Atkinson A, Belcher A, Visser AW. Antarctic krill sequester similar amounts of carbon to key coastal blue carbon habitats. Nature Communications. 2024 Sep 8;15(1):7842.
 
 
