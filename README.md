@@ -8,4 +8,9 @@ DeVries, T. (2014), The oceanic anthropogenic CO2 sink: Storage, air-sea fluxes,
 Within the code, the TMM is imported as load('CTL.mat')
 
 PassageTimes : calculates the first and las passage time from and to the sea floor.
+
 PassageTimes1000 : calculates the first and las passage time from and to a depth of 1000 m.
+
+krillinterp001 : calculates the sequestered carbon and residence time associated with krill poop in the Southern Ocean. Data for distribution is inthe .csv file. 
+
+
